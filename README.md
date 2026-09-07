@@ -88,6 +88,18 @@ Predictive fantasy scoring using historical ball-by-ball data, AutoML (PyCaret),
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[DocXtract](https://github.com/ShekhawaTTiku/DocXtract)**
+<br/>
+End-to-end offline OCR pipeline that turns scanned documents and PDFs into structured JSON — Tesseract-based text extraction, keyword-driven document classification, and regex-based field extraction, wrapped in a Streamlit workspace.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
