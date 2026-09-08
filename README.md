@@ -61,14 +61,17 @@ AI/ML engineer building end-to-end systems that turn structured and unstructured
 
 **[NLP Fake News Detection](https://github.com/ShekhawaTTiku/Fake-News-Detection)**
 <br/>
-Fine-tuned BERT + SVM/BiLSTM baselines on the LIAR2 dataset, fusing text with speaker credibility signals. 0.883 weighted F1, with SHAP explainability on 200 test samples.
+Fine-tuned BERT against SVM/BiLSTM baselines on the LIAR2 dataset, combining statement text with speaker credibility features for a stronger signal. Reached 0.883 weighted F1, backed by SHAP explainability across 200 test samples.
 
 </td>
 <td width="50%" valign="top">
 
 **[PneumoVision-ViT](https://github.com/ShekhawaTTiku/pneumovision-vit)**
 <br/>
-Vision Transformer–based chest X-ray pneumonia classifier built on PyTorch, with a Streamlit demo for interactive inference.
+Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, paired with a Streamlit app for real-time interactive inference on new scans.
+
+<br/>
+🔗 [Live demo](https://vitpneumovision.streamlit.app/)
 
 </td>
 </tr>
@@ -77,14 +80,17 @@ Vision Transformer–based chest X-ray pneumonia classifier built on PyTorch, wi
 
 **PDF Research Assistant**
 <br/>
-Offline RAG pipeline using LangChain, FAISS, and Sentence Transformers — semantic search over parsed PDFs with local LLM Q&A and citations.
+Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers to enable semantic search over parsed PDFs, with a local LLM answering questions and citing source passages.
 
 </td>
 <td width="50%" valign="top">
 
-**Cricket Fantasy Point System**
+**[Cricket Fantasy Point System](https://github.com/ShekhawaTTiku/IPL_Fantasy_Cricket_Team_Generator)**
 <br/>
-Predictive fantasy scoring using historical ball-by-ball data, AutoML (PyCaret), and gradient boosting for optimized team recommendations.
+Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams.
+
+<br/>
+🔗 [Live demo](https://ipl-fantasy-team-predictor.streamlit.app/)
 
 </td>
 </tr>
@@ -93,7 +99,10 @@ Predictive fantasy scoring using historical ball-by-ball data, AutoML (PyCaret),
 
 **[DocXtract](https://github.com/ShekhawaTTiku/DocXtract)**
 <br/>
-End-to-end offline OCR pipeline that turns scanned documents and PDFs into structured JSON — Tesseract-based text extraction, keyword-driven document classification, and regex-based field extraction, wrapped in a Streamlit workspace.
+Fully offline OCR pipeline converting scanned documents and PDFs into structured JSON, using Tesseract for text extraction, keyword-based classification, and regex field parsing inside a Streamlit workspace.
+
+<br/>
+🔗 [Live demo](https://docxtract1.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
