@@ -3,9 +3,9 @@
   <br/>
 
 <a href="https://in.linkedin.com/in/digvijay-singh-shekhawat-b96449317"><img src="https://img.shields.io/badge/LinkedIn-Connect-8b98a5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0f19" /></a>
+<a href="./Digvijay%20Singh%20Shekhawat%20resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20Resume-8b98a5?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=0b0f19" /></a>
 <a href="mailto:tiku12004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-8b98a5?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0f19" /></a>
 <a href="https://github.com/ShekhawaTTiku"><img src="https://img.shields.io/badge/GitHub-Follow-8b98a5?style=flat-square&logo=github&logoColor=white&labelColor=0b0f19" /></a>
-<a href="./Digvijay%20Singh%20Shekhawat%20resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20Resume-8b98a5?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=0b0f19" /></a>
 
 </div>
 
