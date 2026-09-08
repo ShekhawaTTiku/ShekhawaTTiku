@@ -70,8 +70,7 @@ Fine-tuned BERT against SVM/BiLSTM baselines on the LIAR2 dataset, combining sta
 <br/>
 Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, paired with a Streamlit app for real-time interactive inference on new scans.
 
-<br/>
-🔗 [Live demo](https://vitpneumovision.streamlit.app/)
+
 
 </td>
 </tr>
@@ -89,8 +88,6 @@ Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers
 <br/>
 Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams.
 
-<br/>
-🔗 [Live demo](https://ipl-fantasy-team-predictor.streamlit.app/)
 
 </td>
 </tr>
@@ -101,8 +98,6 @@ Predictive fantasy scoring engine trained on historical ball-by-ball data, using
 <br/>
 Fully offline OCR pipeline converting scanned documents and PDFs into structured JSON, using Tesseract for text extraction, keyword-based classification, and regex field parsing inside a Streamlit workspace.
 
-<br/>
-🔗 [Live demo](https://docxtract1.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
