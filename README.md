@@ -69,7 +69,8 @@ Fine-tuned BERT against SVM/BiLSTM baselines on the LIAR2 dataset, combining sta
 
 **[PneumoVision-ViT](https://github.com/ShekhawaTTiku/pneumovision-vit)**
 <br/>
-Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, paired with a Streamlit app for real-time interactive inference on new scans. [🚀](https://vitpneumovision.streamlit.app/ "Live demo")
+Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, paired with a Streamlit app for real-time interactive inference on new scans. <br/>
+[🚀](https://vitpneumovision.streamlit.app/ "Live demo")
 
 </td>
 </tr>
@@ -85,7 +86,8 @@ Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers
 
 **[Cricket Fantasy Point System](https://github.com/ShekhawaTTiku/IPL_Fantasy_Cricket_Team_Generator)**
 <br/>
-Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams. [🚀](https://ipl-fantasy-team-predictor.streamlit.app/ "Live demo")
+Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams.<br/>
+[🚀](https://ipl-fantasy-team-predictor.streamlit.app/ "Live demo")
 
 </td>
 </tr>
@@ -94,7 +96,8 @@ Predictive fantasy scoring engine trained on historical ball-by-ball data, using
 
 **[DocXtract](https://github.com/ShekhawaTTiku/DocXtract)**
 <br/>
-Fully offline OCR pipeline converting scanned documents and PDFs into structured JSON, using Tesseract for text extraction, keyword-based classification, and regex field parsing inside a Streamlit workspace. [🚀](https://docxtract1.streamlit.app/ "Live demo")
+Fully offline OCR pipeline converting scanned documents and PDFs into structured JSON, using Tesseract for text extraction, keyword-based classification, and regex field parsing inside a Streamlit workspace.<br/>
+[🚀](https://docxtract1.streamlit.app/ "Live demo")
 
 </td>
 <td width="50%" valign="top">
