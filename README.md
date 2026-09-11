@@ -110,7 +110,7 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 
 ### `>` achievements
 
-🏆 **1st Place** — FIFS Sports Data Gameathon 2025 2.0 (national-level, top university teams)
+🏆 **1st Place** — FIFS Sports Data Gameathon 2025 2.0 (national-level, top university teams) · [🏅 Certificate](https://drive.google.com/file/d/1KkZFEkGB9WNYPGWl_r-fDYiv-Sopvcwa/view?usp=sharing)
 <br/>
 🎯 **Top 20** — FIFS Sports Data Gameathon 2025 1.0 (national finalist)
 <br/>
