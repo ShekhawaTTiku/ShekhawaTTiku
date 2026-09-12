@@ -74,6 +74,7 @@ Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, pai
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -91,6 +92,7 @@ Predictive fantasy scoring engine trained on historical ball-by-ball data, using
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -122,7 +124,6 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShekhawaTTiku&show_icons=true&theme=chartreuse-dark&bg_color=0b0f19&title_color=8b98a5&icon_color=8b98a5&text_color=c9d2da&border_color=1a1f2e&hide_border=false" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=ShekhawaTTiku&theme=dark&background=0b0f19&stroke=1a1f2e&ring=8b98a5&fire=8b98a5&currStreakLabel=c9d2da&sideLabels=c9d2da&dates=6b7684" width="49%" />
 
 </div>
