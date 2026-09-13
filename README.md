@@ -78,7 +78,7 @@ Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, pai
 <tr>
 <td width="50%" valign="top">
 
-**PDF Research Assistant**
+**RAGVault**
 <br/>
 Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers to enable semantic search over parsed PDFs, with a local LLM answering questions and citing source passages.
 
