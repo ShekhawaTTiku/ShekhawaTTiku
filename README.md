@@ -113,11 +113,11 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 
 ### `>` achievements
 
-🏆 **1st Place** — FIFS Sports Data Gameathon 2025 2.0 (national-level, top university teams) · [🏅 Certificate](https://drive.google.com/file/d/1KkZFEkGB9WNYPGWl_r-fDYiv-Sopvcwa/view?usp=sharing)
+🏆 **1st Place** — FIFS Sports Data Gameathon 2025 2.0 (national-level, top university teams) · [🏅 Certificate](https://drive.google.com/file/d/1KkZFEkGB9WNYPGWl_r-fDYiv-Sopvcwa/view?usp=sharing) · (2025)
 <br/>
-🎯 **Top 20** — FIFS Sports Data Gameathon 2025 1.0 (national finalist)
+🎯 **Top 20** — FIFS Sports Data Gameathon 2025 1.0 (national finalist) (2025)
 <br/>
-📊 **Top 500 / ~10,000 teams** — Amazon ML Challenge 2024
+📊 **Top 500 / ~10,000 teams** — Amazon ML Challenge (2024)
 
 <br/>
 
