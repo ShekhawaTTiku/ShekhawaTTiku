@@ -105,6 +105,10 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 </td>
 <td width="50%" valign="top">
 
+**DataBuddy**
+<br/>
+An AI assistant that lets anyone upload a spreadsheet and ask questions about their data in plain English, no coding needed. It figures out the answer and shows it back as clear results, charts, and insights.
+
 </td>
 </tr>
 </table>
@@ -130,5 +134,5 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 </div>
 
 <div align="center">
-<sub>surfing the boards, one commit at a time</sub>
+  <sub>surfing the boards, one commit at a time</sub>
 </div>
