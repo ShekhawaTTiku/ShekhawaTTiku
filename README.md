@@ -13,7 +13,7 @@
 
 ### `>` about
 
-Hi, I’m Digvijay — an AI/ML Engineer building end-to-end systems that transform structured and unstructured data into actionable insights and decisions. My work spans LLMs, RAG pipelines, computer vision, and predictive modeling. I’m currently completing my B.Tech in Computer Science Engineering with a specialization in Data Science.
+Hiii , I’m Digvijay — an AI/ML Engineer building end-to-end systems that transform structured and unstructured data into actionable insights and decisions. My work spans LLMs, RAG pipelines, computer vision, and predictive modeling. I’m currently completing my B.Tech in Computer Science Engineering with a specialization in Data Science.
 
 
 <br/>
