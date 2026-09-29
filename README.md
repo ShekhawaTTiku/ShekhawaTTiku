@@ -36,7 +36,7 @@ Hello !! I’m Digvijay — an AI/ML Engineer building end-to-end systems that t
 <img src="https://img.shields.io/badge/Scikit--Learn-0b0f19?style=flat-square&logo=scikitlearn&logoColor=8b98a5" />
 <img src="https://img.shields.io/badge/XGBoost-0b0f19?style=flat-square&logoColor=8b98a5" />
 
-**Generative AI & LLMs**
+**GenAI & LLMs**
 <br/>
 <img src="https://img.shields.io/badge/LangChain-0b0f19?style=flat-square&logoColor=8b98a5" />
 <img src="https://img.shields.io/badge/Hugging%20Face-0b0f19?style=flat-square&logo=huggingface&logoColor=8b98a5" />
