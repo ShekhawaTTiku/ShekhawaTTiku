@@ -108,7 +108,7 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 **[DataBuddy](https://github.com/ShekhawaTTiku/DataBuddy)**
 <br/>
 An AI assistant that lets anyone upload a csv/spreadsheet and ask questions about their data in plain English, no coding needed. It figures out the answer and shows it back as clear results.
-
+[🚀]((https://databuddyy.streamlit.app/))
 </td>
 </tr>
 </table>
