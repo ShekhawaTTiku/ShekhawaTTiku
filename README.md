@@ -62,6 +62,24 @@ Hello ! I’m Digvijay — an AI/ML Engineer building end-to-end systems that tr
 <tr>
 <td width="50%" valign="top">
 
+**[Cricket Fantasy Point System](https://github.com/ShekhawaTTiku/IPL_Fantasy_Cricket_Team_Generator)** · 🏆 *Bagged 1st Prize at FIFS Gameathon 2.0*
+<br/>
+Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams.<br/>
+[🚀](https://ipl-fantasy-team-predictor.streamlit.app/ "Live demo")
+
+</td>
+<td width="50%" valign="top">
+
+**[DataBuddy](https://github.com/ShekhawaTTiku/DataBuddy)**
+<br/>
+An AI assistant that lets anyone upload a csv/spreadsheet and ask questions about their data in plain English, no coding needed. It figures out the answer and shows it back as clear results.<br/>
+[🚀](https://databuddyy.streamlit.app/)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 **[NLP Fake News Detection](https://github.com/ShekhawaTTiku/Fake-News-Detection)**
 <br/>
 Fine-tuned BERT against SVM/BiLSTM baselines on the LIAR2 dataset, combining statement text with speaker credibility features for a stronger signal. Reached 0.883 weighted F1, backed by SHAP explainability across 200 test samples.
@@ -88,29 +106,11 @@ Streamlit app that turns uploaded PDFs, DOCX, XLSX and CSV files into evidence-b
 </td>
 <td width="50%" valign="top">
 
-**[Cricket Fantasy Point System](https://github.com/ShekhawaTTiku/IPL_Fantasy_Cricket_Team_Generator)**
-<br/>
-Predictive fantasy scoring engine trained on historical ball-by-ball data, using AutoML (PyCaret) and gradient boosting to recommend optimized fantasy teams.<br/>
-[🚀](https://ipl-fantasy-team-predictor.streamlit.app/ "Live demo")
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 **[DocXtract](https://github.com/ShekhawaTTiku/DocXtract)**
 <br/>
 Fully offline OCR pipeline converting scanned documents and PDFs into structured JSON, using Tesseract for text extraction, keyword-based classification, and regex field parsing inside a Streamlit workspace.<br/>
 [🚀](https://docxtract1.streamlit.app/ "Live demo")
 
-</td>
-<td width="50%" valign="top">
-
-**[DataBuddy](https://github.com/ShekhawaTTiku/DataBuddy)**
-<br/>
-An AI assistant that lets anyone upload a csv/spreadsheet and ask questions about their data in plain English, no coding needed. It figures out the answer and shows it back as clear results.<br/>
-[🚀](https://databuddyy.streamlit.app/)
 </td>
 </tr>
 
@@ -133,6 +133,7 @@ Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers
 </table>
 
 <br/>
+
 
 ### `>` achievements
 
