@@ -3,6 +3,7 @@
   <br/>
 
 <a href="https://in.linkedin.com/in/digvijay-singh-shekhawat-b96449317"><img src="https://img.shields.io/badge/LinkedIn-Connect-8b98a5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0f19" /></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8b98a5?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0b0f19" /></a>
 <a href="./Digvijay%20Singh%20Shekhawat%20resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20Resume-8b98a5?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=0b0f19" /></a>
 <a href="mailto:tiku12004@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-8b98a5?style=flat-square&logo=gmail&logoColor=white&labelColor=0b0f19" /></a>
 <a href="https://github.com/ShekhawaTTiku"><img src="https://img.shields.io/badge/GitHub-Follow-8b98a5?style=flat-square&logo=github&logoColor=white&labelColor=0b0f19" /></a>
@@ -79,9 +80,10 @@ Vision Transformer built in PyTorch to classify pneumonia from chest X-rays, pai
 <tr>
 <td width="50%" valign="top">
 
-**RAGVault**
+**[SourceSpark](https://github.com/ShekhawaTTiku/SourceSpark)**
 <br/>
-Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers to enable semantic search over parsed PDFs, with a local LLM answering questions and citing source passages.
+Streamlit app that turns uploaded PDFs, DOCX, XLSX and CSV files into evidence-backed weekly plans and campaigns. Generates topic ideas linked to source excerpts, validates evidence locally, and routes across Gemini and Groq with automatic fallback, with Markdown/CSV export and reopenable workspaces.<br/>
+[🚀](https://sourcespark.streamlit.app/ "Live demo")
 
 </td>
 <td width="50%" valign="top">
@@ -109,6 +111,23 @@ Fully offline OCR pipeline converting scanned documents and PDFs into structured
 <br/>
 An AI assistant that lets anyone upload a csv/spreadsheet and ask questions about their data in plain English, no coding needed. It figures out the answer and shows it back as clear results.<br/>
 [🚀](https://databuddyy.streamlit.app/)
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[AutoCV](https://github.com/ShekhawaTTiku/AutoCV)**
+<br/>
+AI-powered LaTeX resume editor with a multi-agent pipeline: Gemini routes to the target section, Groq edits only that snippet, and a local engine patches and compiles a PDF candidate. Compilation errors trigger automatic repair with Mistral fallback, and every change goes through human diff/PDF review before approval.
+
+</td>
+<td width="50%" valign="top">
+
+**RAGVault** · 🚧 *Ongoing*
+<br/>
+Fully offline RAG pipeline combining LangChain, FAISS, and Sentence Transformers to enable semantic search over parsed PDFs, with a local LLM answering questions and citing source passages.
+
 </td>
 </tr>
 </table>
